@@ -1,0 +1,120 @@
+/* herosection */
+
+.herosection {
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 1000px;
+    height: 541px;
+    background-image: url(/assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+
+}
+
+
+.conteiner {
+    position: relative;
+    top: 216px;
+    height: 60%;
+    width: 40%;
+    font-size: 50px;
+    font-family: Ibarra Real Nova;
+    background-color: white;
+}
+
+
+
+
+.children {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+    height: 15%;
+    width: 50%;
+    background-color: #203A4C;
+
+}
+
+.children img {
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+.children a {
+    text-decoration: none;
+    padding-right: 25px;
+    font-size: 14px;
+    font-family: Public Sans;
+    letter-spacing: 2px;
+    color: white;
+
+
+
+}
+
+/* herosection */
+/* profilesection */
+.sobresection {
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 1000px;
+    height: 541px;
+    background-image: url(/assets/home/image-homepage-profile.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-color: red;
+}
+
+.conteiner-two {
+
+    margin-left: 50%;
+    width: 500px;
+    height: 541px;
+    background-color: white;
+
+}
+
+.conteiner-two h1 {
+    padding-bottom: 35px;
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-family: Ibarra Real Nova;
+}
+
+.conteiner-two p {
+    text-align: left;
+    padding-left: 100px;
+    font-size: 12px;
+    font-family: Public Sans;
+    line-height: 30px;
+
+
+}
+
+.conteiner-two .children-two {
+    display: flex;
+    margin-left: 210px;
+
+    height: 21.5%;
+    width: 100%;
+    background-color: white;
+}
+
+.box {
+    display: flex;
+    width: 37%;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.box a {
+    font-size: 12px;
+    font font-family: Public Sans;
+    letter-spacing: 2px;
+    color: black;
+    text-decoration: none;
+}

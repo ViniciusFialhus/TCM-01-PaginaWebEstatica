@@ -1,0 +1,171 @@
+.managesection {
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 800px;
+    height: 400px;
+    background-image: url(/assets/portfolio/manage/image-portfolio-manage.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: red;
+
+}
+
+.conteiner {
+
+    margin-left: 50%;
+    width: 500px;
+    height: 541px;
+    background-color: white;
+
+}
+
+.conteiner h1 {
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-family: Ibarra Real Nova;
+    color: #33323D;
+}
+
+.conteiner p {
+    text-align: left;
+    padding-left: 100px;
+    font-size: 12px;
+    font-family: Public Sans;
+    line-height: 30px;
+    color: #33323D;
+
+
+}
+
+.conteiner .children {
+    display: flex;
+    margin-left: 210px;
+
+    height: 21.5%;
+    width: 100%;
+    background-color: white;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 110px;
+    top: 50px;
+    width: 37%;
+    height: 40%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.box a {
+    font-size: 12px;
+    font font-family: Public Sans;
+    letter-spacing: 2px;
+    color: black;
+    text-decoration: none;
+}
+
+/*  */
+
+
+.bookmarksection {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 1000px;
+    height: 541px;
+
+}
+
+.bookmarksection img {
+    width: 500px;
+    height: 541px;
+}
+
+.insuresection {
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 800px;
+    height: 400px;
+    background-image: url(/assets/portfolio/insure/image-portfolio-insure.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: red;
+
+}
+
+.fylosection {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 25vh;
+    width: 1000px;
+    height: 541px;
+
+}
+
+.fylosection img {
+    width: 500px;
+    height: 541px;
+}
+
+.conteiner-two {
+
+    margin-right: 100px;
+    width: 500px;
+    height: 541px;
+    background-color: white;
+
+}
+
+.conteiner-two h1 {
+    padding-bottom: 35px;
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-family: Ibarra Real Nova;
+}
+
+.conteiner-two p {
+    text-align: left;
+    padding-left: 100px;
+    font-size: 12px;
+    font-family: Public Sans;
+    line-height: 30px;
+
+
+}
+
+.conteiner-two .children-two {
+    display: flex;
+    margin-left: 210px;
+
+    height: 21.5%;
+    width: 100%;
+    background-color: white;
+}
+
+.box {
+    display: flex;
+    width: 37%;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.box a {
+    font-size: 12px;
+    font font-family: Public Sans;
+    letter-spacing: 2px;
+    color: black;
+    text-decoration: none;
+}
