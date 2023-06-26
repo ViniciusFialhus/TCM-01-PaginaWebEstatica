@@ -4,7 +4,7 @@ Este repositório contém o primeiro trabalho de conclusão de modulo da escola 
 
 ## Descrição do Projeto
 
-O objetivo principal deste projeto é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'. O projeto visava o aprimoramento dos alunos da Cubos Academy no ambiento de elaboração de sites estáticos e estilizados. Ele foi desenvolvido utilizando HTML e CSS básico.
+O objetivo principal deste projeto é replicar o website de portifolio encontrado no arquivo 'Desafio front academy 1.fig'. O projeto visava o aprimoramento dos alunos da Cubos Academy no ambiento de elaboração de sites estáticos e estilizados. Ele foi desenvolvido utilizando HTML e CSS básico.
 
 ## Paginas Principais
 
@@ -24,4 +24,8 @@ Para executar este projeto localmente, siga as etapas abaixo:
 1. Certifique-se de ter o **LIVE SERVER** instalado no seu **Visual Code**
 2. Clone este repositório para o seu ambiente local:
     O comando ```git clone https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica.git``` deve ser executado.
-3. Click com o botão direito no HTML do projeto e inicie uma instancia do Live Server.
+4. Click com o botão direito no HTML do projeto e inicie uma instancia do Live Server.
+
+## LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfialhu/)
