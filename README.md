@@ -12,7 +12,6 @@ O projeto possui as seguintes páginas principais:
 
 <div class="image-container">
   <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/4ceb2b1e-1a3d-4bc8-8ba9-ce02005dc1c9" width="350" height="450">
-  <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/ea1e7804-e531-4a65-bf3c-980346736d4d" width="350" height="300">
   <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/bc5cf05e-c665-4edd-ba13-9c590befe7fb" width="300" height="600">
 </div> 
 
