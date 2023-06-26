@@ -1,0 +1,164 @@
+.container-hero{
+    height: 520px;
+    width: 1154px;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    background-image: url('../../assets//portfolio/bookmark/image-bookmark-hero.jpg');
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    width: 1154px;
+    height: 900px;
+}
+
+.left{
+  height: 100%;
+  width: 30%;
+}
+
+.paragraphs{
+    margin-top: 25px;
+    font-family: Public Sans;
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    line-height: 15px;
+}
+
+.greenparagraphs{
+    margin-top: 25px;
+    font-size: 13px;
+    font-family: Public Sans;
+    color: #5FB4A2;
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+    width: 100px;
+    height: 30px;
+    font-size: 10px;
+    font-family: Public Sans;
+    letter-spacing: 1px;    
+    border: solid 1px black;
+}
+
+.rigth{
+    margin-left: 100px;
+    height: 100%;
+    width: 50%;
+}
+
+.rigth h1 {
+    font-family: Ibarra Real Nova;
+}
+
+.twoH1 {
+    margin-top: 25px;
+}
+
+.conteinerImg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15px;
+    width: 590px;
+    height: 600px;
+}
+
+.img1{
+    margin-bottom: 15px;
+    height: 100%;
+    width: 100%;
+    background-image: url('../../assets/portfolio/bookmark/image-bookmark-preview-1.jpg');
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.img2{
+    height: 100%;
+    width: 100%;
+    background-image: url('../../assets/portfolio/bookmark/image-bookmark-preview-2.jpg');
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+hr{
+    width: 70vw;
+    margin-left: 190px;
+    opacity: 0.4;
+}
+
+.container-A{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 150px;
+    width: 70vw;
+    margin-left: 190px;
+}
+
+.bookmark{
+    display: flex;
+    flex-direction: column;
+}
+
+.bookmark .title{
+    font-family: "ibarra real nova";
+    font-size: 35px;
+}
+
+.bookmark .sub-title{
+    position: relative;
+    left: 10px;
+    font-family: "public sans";
+    font-size: 15px;
+}
+
+
+.bookmark img{
+    position: relative;
+    left: 115px;
+    bottom: 35px;
+    height: 25px;
+}
+
+.Fylo{
+    display: flex;
+    flex-direction: column;
+}
+
+.Fylo .title{
+    font-family: "ibarra real nova";
+    font-size: 35px;
+}
+
+.Fylo .sub-title{
+    position: relative;
+    left: 10px;
+    font-family: "public sans";
+    font-size: 15px;
+}
+
+
+.Fylo img{
+    position: relative;
+    right: 90px;
+    bottom: 35px;
+    height: 25px;
+}

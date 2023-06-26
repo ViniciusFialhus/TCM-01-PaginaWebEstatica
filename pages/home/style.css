@@ -59,10 +59,13 @@
     margin-left: 25vh;
     width: 1000px;
     height: 541px;
+    
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     background-image: url(/assets/home/image-homepage-profile.jpg);
     background-size: 50%;
     background-repeat: no-repeat;
-    background-color: red;
+ 
 }
 
 .conteiner-two {
