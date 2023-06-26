@@ -1,146 +1,28 @@
-![](https://i.imgur.com/xG74tOh.png)
+# Projeto de Trabalho de Conclusão de Módulo
 
-# Desafio | Front-end - Módulo 2
+Este repositório contém o primeiro trabalho de conclusão de modulo da escola de programação [Cubos Academy](https://cubos.academy || Site da Cubos Academy) esse projeto era cobrado para como requisito para a conclusão da disciplina de introdução a HTML e CSS.
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+## Descrição do Projeto
 
-## Páginas obrigatórias
+O objetivo principal deste projeto é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'. O projeto visava o aprimoramento dos alunos da Cubos Academy no ambiento de elaboração de sites estáticos e estilizados. Ele foi desenvolvido utilizando HTML e CSS básico.
 
-- [Home](#Home)
+## Paginas Principais
 
-## Páginas opcionais
+O projeto possui as seguintes páginas principais:
 
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
+<div class="image-container">
+  <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/4ceb2b1e-1a3d-4bc8-8ba9-ce02005dc1c9" width="350" height="450">
+  <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/ea1e7804-e531-4a65-bf3c-980346736d4d" width="350" height="300">
+  <img src="https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica/assets/117598534/bc5cf05e-c665-4edd-ba13-9c590befe7fb" width="300" height="600">
+</div> 
 
-### Home
 
-Seções
+## Instalação
 
-- Header ![](https://i.imgur.com/Vwj9U0y.png)
+Para executar este projeto localmente, siga as etapas abaixo:
 
-- Hero Section ![](https://i.imgur.com/tjYO6R6.png)
 
-- Sobre Section ![](https://i.imgur.com/KHPaEWW.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Manage Section ![](https://i.imgur.com/jHweGIb.png)
-
-- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
-
-- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
-
-- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 01 - Manage
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
-
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
-
-- Main Section
-  ![](https://i.imgur.com/O1JyZtK.png)
-
-- Links Section ![](https://i.imgur.com/zGJMDOE.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 02 - Bookmark
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/ag3Madi.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/JDvgptu.png)
-
-- Main Section
-  ![](https://i.imgur.com/T41K6z3.png)
-
-- Links Section ![](https://i.imgur.com/UpCLzFL.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 03 - Insure
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/zofNYva.png)
-
-- Main Section
-  ![](https://i.imgur.com/BMMJXlz.png)
-
-- Links Section ![](https://i.imgur.com/9fYN4lI.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 04 - Fylo
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/fKuRKYX.png)
-
-- Main Section
-  ![](https://i.imgur.com/MQC6y17.png)
-
-- Links Section ![](https://i.imgur.com/3WGHl8V.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Contato
-
-Seções
-
-- Header ![](https://i.imgur.com/ubDorki.png)
-
-- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
-
-- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
+1. Certifique-se de ter o **LIVE SERVER** instalado no seu **Visual Code**
+2. Clone este repositório para o seu ambiente local:
+    O comando ```git clone https://github.com/ViniciusFialhus/TCM-01-pagina-web-estatica.git``` deve ser executado.
+3. Click com o botão direito no HTML do projeto e inicie uma instancia do Live Server.
